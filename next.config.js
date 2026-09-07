@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  output: "export",
   webpack: (config) => {
     // pdfjs-dist ships a worker file that webpack needs to treat as an asset,
     // not bundle through the normal JS pipeline.
