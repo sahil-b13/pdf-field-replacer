@@ -4,11 +4,11 @@ export default function Footer() {
       <div className="footer-inner">
         <div className="contact-block">
           <p className="contact-line">
-            Built and maintained by <strong>[YOUR FULL NAME HERE]</strong>
+            Built and maintained by <strong>[Sahil Birje]</strong>
           </p>
           <p className="contact-line">
             Questions or bugs?{" "}
-            <a href="mailto:[your.email@example.com]">[your.email@example.com]</a>
+            <a href="mailto:[your.email@example.com]">[sahilbirje13@gmail.com]</a>
           </p>
         </div>
       </div>
