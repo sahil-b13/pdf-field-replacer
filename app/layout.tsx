@@ -3,9 +3,9 @@ import "./globals.css";
 import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
-  title: "Cover Page Swap — Replace your details on any practical file",
+  title: "PDF Field Replacer — Swap Name, Roll Number & Details on Any PDF",
   description:
-    "Upload a practical file or assignment cover page, swap in your own name, roll number, and details, and download it back as a PDF — nothing else on the page changes.",
+    "Free PDF field replacer: Upload a practical file or assignment cover page, swap in your own name, roll number, and details, and download it back as a PDF — nothing else on the page changes.",
 };
 
 export default function RootLayout({
